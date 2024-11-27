@@ -1,4 +1,4 @@
-<p> GitHub para guardar coisas da escola e de linguagens que eu estudo</p>
+<p> GitHub para guardar coisas da escola e projetos pessoais</p>
 
 
 
