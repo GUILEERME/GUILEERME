@@ -1,5 +1,5 @@
 
-<img src="/assets/hello-world-seytonic.gif">
+<img  align = 'center' src="/assets/hello-world-seytonic.gif">
 
 <p align = 'center'> GitHub para guardar coisas da escola e projetos pessoais</p>
 
