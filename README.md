@@ -1,7 +1,7 @@
 
 <img src="/assets/hello-world-seytonic.gif">
 
-<p> GitHub para guardar coisas da escola e projetos pessoais</p>
+<p align = 'center'> GitHub para guardar coisas da escola e projetos pessoais</p>
 
 
 
