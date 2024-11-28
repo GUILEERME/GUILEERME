@@ -1,2 +1,1 @@
-
-##![gif](assets/img/hello-world-seytonic)
+<div class="tenor-gif-embed" data-postid="10598764531210485569" data-share-method="host" data-aspect-ratio="1.78218" data-width="100%"><a href="https://tenor.com/view/hello-world-seytonic-coding-hello-gif-10598764531210485569">Hello World Seytonic GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
