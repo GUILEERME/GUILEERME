@@ -1,2 +1,2 @@
 
-##![](assets/img/hello-world-seytonic)
+##![gif](assets/img/hello-world-seytonic)
