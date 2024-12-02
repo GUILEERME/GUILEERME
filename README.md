@@ -7,5 +7,6 @@
   <p> Sou estudante do segundo ano do ensino médio integrado ao técnico com habilitação profissional de técnico em Desenvolvimento
              de Sistemas na ETEC Professor Alfredo de Barros Santos, em Guaratinguetá</p>
 </p>
-
+<br>
+Aqui eu guardo umas coisas da escola e projetos pessoais 
 
