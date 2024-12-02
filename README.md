@@ -5,7 +5,7 @@
 <p align = "center">
   <b> Olá 👋 </b>
   <p> Sou estudante do segundo ano do ensino médio integrado ao técnico com habilitação profissional de técnico em Desenvolvimento
-    de Sistemas na ETEC Professor Alfredo de Barros Santos, em Guaratinguetá</p>
+             de Sistemas na ETEC Professor Alfredo de Barros Santos, em Guaratinguetá</p>
 </p>
 
 
